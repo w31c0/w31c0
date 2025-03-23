@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-I’m **18 years old** and currently studying programming at a technical school, specializing in software development. I mostly learn programming through **ChatGPT** (yeah, I know it’s not the best way) and the endless resources on the internet.
+I’m **18 years old** and currently studying programming at a technical school, specializing in software development. I mostly learn programming through **ChatGPT** (yeah, I know it’s not the best way) and from resources on the internet.
 
 ## Technologies I Use
 
