@@ -20,7 +20,6 @@ I’m **18 years old** and currently studying programming at a technical school,
 
 ---
 
-## GitHub Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" />
