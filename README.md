@@ -18,6 +18,16 @@ I’m **18 years old** and currently studying programming at a technical school,
 
 ![Github stat's](https://github-readme-stats.vercel.app/api?username=w31c0&show_icons=true&theme=transparent)
 
+---
+
+## GitHub Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-snake.svg" />
+</picture>
+
 ## Projects
 
 Here you’ll find a mix of projects – from small experiments to bigger challenges I’m working on. You can check out my projects at [**ottinio.weico.online**](http://ottinio.weico.online).
